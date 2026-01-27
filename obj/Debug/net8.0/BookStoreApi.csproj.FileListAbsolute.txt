@@ -30,3 +30,4 @@ G:\local e\Vue\backend\ITS-Backend-week1-task\BookStoreApi\obj\Debug\net8.0\refi
 G:\local e\Vue\backend\ITS-Backend-week1-task\BookStoreApi\obj\Debug\net8.0\BookStoreApi.pdb
 G:\local e\Vue\backend\ITS-Backend-week1-task\BookStoreApi\obj\Debug\net8.0\BookStoreApi.genruntimeconfig.cache
 G:\local e\Vue\backend\ITS-Backend-week1-task\BookStoreApi\obj\Debug\net8.0\ref\BookStoreApi.dll
+G:\local e\Vue\backend\ITS-Backend-week1-task\BookStoreApi\obj\Debug\net8.0\BookStoreApi.sourcelink.json
